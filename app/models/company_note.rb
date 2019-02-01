@@ -1,0 +1,2 @@
+class CompanyNote < ApplicationRecord
+end

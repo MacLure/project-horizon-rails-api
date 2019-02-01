@@ -1,0 +1,2 @@
+class ContactNote < ApplicationRecord
+end

@@ -1,0 +1,2 @@
+class SubmissionComment < ApplicationRecord
+end
