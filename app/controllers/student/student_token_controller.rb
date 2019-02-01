@@ -1,2 +1,2 @@
-class StudentTokenController < Knock::AuthTokenController
+class Student::StudentTokenController < Knock::AuthTokenController
 end

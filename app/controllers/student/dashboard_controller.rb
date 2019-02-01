@@ -1,2 +1,2 @@
-class DashboardController < ApplicationController
+class Student::DashboardController < ApplicationController
 end

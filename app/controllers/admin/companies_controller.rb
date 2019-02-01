@@ -1,2 +1,2 @@
-class CompaniesController < ApplicationController
+class Admin::CompaniesController < ApplicationController
 end

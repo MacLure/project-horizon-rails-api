@@ -1,2 +1,2 @@
-class EventsController < ApplicationController
+class Admin::EventsController < ApplicationController
 end

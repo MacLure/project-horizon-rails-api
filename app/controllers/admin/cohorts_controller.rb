@@ -1,2 +1,2 @@
-class CohortsController < ApplicationController
+class Admin::CohortsController < ApplicationController
 end
